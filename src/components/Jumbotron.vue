@@ -19,5 +19,10 @@ export default {
 <style>
     .jumbo {
         background-color: tomato;
+        border-radius: 20px;
+    }
+
+    img {
+        border-radius: 20px;
     }
 </style>
